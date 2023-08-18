@@ -1,0 +1,25 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.exemplo{
+    background: red;
+    color: black;
+    height: 150px;
+    overflow: scroll;
+}
+
+.exemplo1{
+    background: lightblue;
+    color: rgb(206, 17, 216);
+    height: 50px;
+    overflow: visible;
+}
+
+.exemplo2{
+    background: lightblue;
+    color: rgb(206, 17, 216);
+    height: 50px;
+    overflow:hidden;
+}

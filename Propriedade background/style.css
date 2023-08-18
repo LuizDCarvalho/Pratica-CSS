@@ -1,0 +1,16 @@
+*{
+    background-color: white;
+}
+
+
+
+.exemplo-back{
+    background-color: lightgray;
+    height: 600px;
+    width: 1000px;
+    background-image: url("./img/wallpaper.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}

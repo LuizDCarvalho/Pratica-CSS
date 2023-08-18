@@ -1,0 +1,12 @@
+* {
+  background: blue;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+button {
+  background: white;
+  text-decoration: none;
+  border-radius: 5px;
+  color: black;
+}/*# sourceMappingURL=index.css.map */

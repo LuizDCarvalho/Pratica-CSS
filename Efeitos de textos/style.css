@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+}
+
+.header{
+    background: yellowgreen;
+    padding: 80px;
+    text-align: center ;
+    color: white;
+} 
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    background: lightblue;
+}
+
+.navbar a{
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background: orange;
+    font-weight: bold;
+    color: black;
+}
+
+.corpo{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.card{
+    flex-grow:1;
+    background: red;
+    height: 400px;
+    margin: 1%;
+    border: 8px solid black;
+}

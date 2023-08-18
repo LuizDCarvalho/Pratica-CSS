@@ -1,0 +1,36 @@
+*{
+    background:white;
+    color:black;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px 30px 30px 30px 30px;
+}
+
+h1{
+    background: black;
+    text-align: center;
+    border-radius: 20pxpx;
+    color: white;
+    padding: 20px 30px 20px 30px;
+}
+
+p{
+    text-align: center;
+    justify-content: center;
+
+}
+
+.botao{
+    margin-left: 45%;
+    background: blue;
+    color: white;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    text-decoration: none;
+}
+
+.botao:hover{
+    background: purple;
+}
